@@ -10,6 +10,8 @@ public class FirstClass {
 
 
                 /*this is not working i can't follow*/
+                
+                /*how will you know if you messed up*/
 
 
 
